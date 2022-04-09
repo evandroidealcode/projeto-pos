@@ -1,0 +1,17 @@
+{
+    "name": "estacio/projeto-pos",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evandro cabral",
+            "email": "proxteam@hotmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
